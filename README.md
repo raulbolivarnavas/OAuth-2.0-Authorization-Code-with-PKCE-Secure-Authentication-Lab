@@ -18,7 +18,7 @@ Una precisión importante: **PKCE no autentica al usuario ni sustituye la autent
 
 ---
 
-:::mermaid
+```mermaid
 sequenceDiagram
     autonumber
     actor U as Usuario
@@ -51,7 +51,7 @@ sequenceDiagram
     else State inválido
         A-->>U: Rechazar callback
     end
-:::
+```
 
 ---
 
