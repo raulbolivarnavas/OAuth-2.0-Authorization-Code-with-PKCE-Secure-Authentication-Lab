@@ -55,7 +55,7 @@ sequenceDiagram
 
 ---
 
-#### Author: [Raul Bolivar Navas](https://github.com/raulrobinson)
+#### Author: [Raul Bolivar Navas](https://github.com/raulbolivarnavas)
 
 #### License
 
